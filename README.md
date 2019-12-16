@@ -1,7 +1,9 @@
 # About
-## **Name:** Babalola, Omodolapo Victor
-## **Education:** _Msc Computer Aplied Technology_ , Changchun University of Science and Technnology, Changchun, China
-## **Education:** _BTech Computer Engineering_ , Ladoke Akintola University of Technology, Ogbomosho, Nigeria
+### **Name** 
+#### Babalola, Omodolapo Victor
+### **Education** 
+#### _Msc Computer Aplied Technology_ , Changchun University of Science and Technnology, Changchun, China
+#### _BTech Computer Engineering_ , Ladoke Akintola University of Technology, Ogbomosho, Nigeria
 
 
 # Skills
@@ -11,8 +13,6 @@
 # CV
 
 # Contact
-### About
-
 
 ```markdown
 Syntax highlighted code block
