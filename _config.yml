@@ -1,9 +1,2 @@
-# basic options
-title: My Testpage
-author: Omodolapo
-description: Welcome to my Site
-twitter_username: omodolapo
-github_username: omodolapo
-
 #build settings
 theme: jekyll-theme-time-machine
