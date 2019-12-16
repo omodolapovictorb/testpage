@@ -4,14 +4,31 @@ You can use the [editor on GitHub](https://github.com/victordeboy/testpage/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# About
+## **Name:** Babalola, Omodolapo Victor
+## **Education:** _Msc Computer Aplied Technology_ , Changchun University of Science and Technnology, Changchun, China
+## **Education:** _BTech Computer Engineering_ , Ladoke Akintola University of Technology, Ogbomosho, Nigeria
+
+
+# Skills
+## 
+
+# Experience
+
+# CV
+
+# Contact
+
+
+
+
 ## Header 2
 ### Header 3
 
