@@ -1,1 +1,10 @@
+# basic options
+title: My Testpage
+author: Omodolapo
+email： omodolapo@yahoo.com
+description: Welcome to my Site
+twitter_username: omodolapo
+github_username: omodolapo
+
+#build settings
 theme: jekyll-theme-time-machine
