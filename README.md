@@ -1,33 +1,9 @@
-# About
-### **Name** 
-#### Babalola, Omodolapo Victor
-### **Education** 
-#### _Msc Computer Aplied Technology_ , Changchun University of Science and Technnology, Changchun, China
-#### _BTech Computer Engineering_ , Ladoke Akintola University of Technology, Ogbomosho, Nigeria
+# 2020 GitHub Graduation
 
+## **Name** 
+### Babalola, Omodolapo Victor
+## **Education** 
+### _2020: Msc Computer Aplied Technology_, Changchun University of Science and Technnology, Changchun, China.
+### _2015: BTech Computer Engineering_, Ladoke Akintola University of Technology, Ogbomoso, Nigeria.
 
-# Skills
-
-# Experience
-
-# CV
-
-# Contact
-
-```markdown
-Syntax highlighted code block
-
-
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+# [Contact](https://github.com/omodolapovictorb)
